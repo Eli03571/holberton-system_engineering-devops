@@ -1,2 +1,2 @@
 #!/bis/bash
-mkdir - 751 dir_holberton
+mkdir -m 751 dir_holberton
