@@ -1,5 +1,3 @@
 #!/bin/bash
-ls -am
-printf '\n'
-
+ls -am && printf "\n"
 
