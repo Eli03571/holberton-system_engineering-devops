@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t1 | xargs -I{} find {} -maxdepth 0 -type f
+ls -t1u | xargs -I{} find {} -maxdepth 0 -type f
